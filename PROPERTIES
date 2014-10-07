@@ -1,0 +1,12 @@
+{  
+   "gameEnvironment":{  
+      "devMode":false,
+      "isAlive":true
+   },
+   "database":{  
+      "url":"localhost",
+      "database":"organgrinder",
+      "user":"adminvQBpdjU",
+      "pass":"jdG6NwarHaFv"
+   }
+}
