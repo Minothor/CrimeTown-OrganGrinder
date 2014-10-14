@@ -1,11 +1,28 @@
 {
   "name": "organ-grinder",
   "description": "Back end server for ChicagoPiano project",
-  "author": "NJ Boyd <njboyd@gmail.com>",
+  "version" : "1.2.3",
+  "license" : "MIT",
+  "bugs" :
+  { "url" : "https://github.com/Minothor/CrimeTown-OrganGrinder/issues"
+  },
+  "contributors":
+  { "coder" : 
+    { "name" : "NJ Boyd",
+       "email" : "<njboyd@gmail.com>",
+	   "url" : "https://github.com/Minothor/"
+    }
+  }	,
+  "main" : "organ-grinder.js",
   "dependencies": {
     "ws": ">= 0.4.x",
     "mysql": ">= 2.5.x",
     "primus": ">= 2.4.x"
   },
-  "engine": "node >= 0.1.x"
+  "engine": "node >= 0.1.x",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/Minothor/CrimeTown-OrganGrinder.git"
+  }
+  
 }
