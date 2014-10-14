@@ -13,11 +13,10 @@
 	   "url" : "https://github.com/Minothor/"
     }
   }	,
-  "main" : "organ-grinder.js",
+  "main" : "organgrinder.js",
   "dependencies": {
-    "ws": ">= 0.4.x",
-    "mysql": ">= 2.5.x",
-    "primus": ">= 2.4.x"
+    "engine.io": ">= 1.4.x",
+    "mysql": ">= 2.5.x"
   },
   "engine": "node >= 0.1.x",
   "repository" :
