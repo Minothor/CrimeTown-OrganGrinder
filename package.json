@@ -4,7 +4,7 @@
   "version" : "1.2.3",
   "license" : "MIT",
   "bugs" :
-  { "url" : "https://github.com/Minothor/CrimeTown-OrganGrinder/issues"
+  { "url" : "https://github.com/Minothor/OrganGrinder/issues"
   },
   "contributors":
   { "coder" : 
@@ -22,7 +22,7 @@
   "engine": "node >= 0.1.x",
   "repository" :
   { "type" : "git"
-  , "url" : "https://github.com/Minothor/CrimeTown-OrganGrinder.git"
+  , "url" : "https://github.com/Minothor/OrganGrinder.git"
   }
   
 }
